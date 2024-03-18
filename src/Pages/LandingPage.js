@@ -81,7 +81,7 @@ const HomePage = () => {
             */}
 
             <div className="d-flex justify-content-between align-items-center">
-              <h1 className="ms-3 mt-5">Courses</h1>
+              <h1 className="ms-3 mt-5">Courses (Render)</h1>
               <Link to={`/all-courses`} className="me-5 mt-5 pt-4  show-all">
                 Show All
               </Link>
